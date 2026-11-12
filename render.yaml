@@ -1,0 +1,41 @@
+services:
+  - type: web
+    name: flight-friend
+    runtime: node
+    region: singapore
+    plan: 0.5c-512mb
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 24.22.3
+      - key: NODE_ENV
+        value: production
+      - key: HOST
+        value: 0.0.0.0
+      - key: PORT
+        value: 10000
+      - key: DATA_DIR
+        value: /var/data
+      - key: AUTH_PROVIDER
+        value: firebase
+      - key: FIREBASE_PROJECT_ID
+        sync: false
+      - key: FIREBASE_API_KEY
+        sync: false
+      - key: ADMIN_USERNAME
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: ADMIN_PASSWORD_SALT
+        generateValue: true
+      - key: DATA_ENCRYPTION_KEY
+        generateValue: true
+      - key: LOOKUP_HMAC_KEY
+        generateValue: true
+    disk:
+      name: flight-friend-data
+      mountPath: /var/data
+      sizeGB: 1
+

@@ -1,0 +1,1074 @@
+[
+  {
+    "code": "VAJJ",
+    "name": "Juhu Airport",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "iata": "VAJJ",
+    "address": "Juhu Airport, Mumbai, Maharashtra, India"
+  },
+  {
+    "code": "VAAH",
+    "name": "Sardar Vallabhbhai Patel International Airport",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "iata": "VAAH",
+    "address": "Sardar Vallabhbhai Patel International Airport, Ahmedabad, Gujarat, India"
+  },
+  {
+    "code": "VOBL",
+    "name": "Kempegowda International Airport",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "iata": "VOBL",
+    "address": "Kempegowda International Airport, Bengaluru, Karnataka, India"
+  },
+  {
+    "code": "VABB",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "iata": "VABB",
+    "address": "Chhatrapati Shivaji Maharaj International Airport, Mumbai, Maharashtra, India"
+  },
+  {
+    "code": "VOCI",
+    "name": "Cochin International Airport",
+    "city": "Kochi",
+    "state": "Kerala",
+    "iata": "VOCI",
+    "address": "Cochin International Airport, Kochi, Kerala, India"
+  },
+  {
+    "code": "VIDP",
+    "name": "Indira Gandhi International Airport",
+    "city": "Delhi",
+    "state": "Delhi",
+    "iata": "VIDP",
+    "address": "Indira Gandhi International Airport, Delhi, Delhi, India"
+  },
+  {
+    "code": "VEGT",
+    "name": "Lokpriya Gopinath Bordoloi International Airport",
+    "city": "Guwahati",
+    "state": "Assam",
+    "iata": "VEGT",
+    "address": "Lokpriya Gopinath Bordoloi International Airport, Guwahati, Assam, India"
+  },
+  {
+    "code": "VOHS",
+    "name": "Rajiv Gandhi International Airport",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "iata": "VOHS",
+    "address": "Rajiv Gandhi International Airport, Hyderabad, Telangana, India"
+  },
+  {
+    "code": "VAOZ",
+    "name": "HAL Ozar Airport",
+    "city": "Nashik",
+    "state": "Maharashtra",
+    "iata": "VAOZ",
+    "address": "HAL Ozar Airport, Nashik, Maharashtra, India"
+  },
+  {
+    "code": "VOML",
+    "name": "Mangaluru International Airport",
+    "city": "Mangaluru",
+    "state": "Karnataka",
+    "iata": "VOML",
+    "address": "Mangaluru International Airport, Mangaluru, Karnataka, India"
+  },
+  {
+    "code": "VEJS",
+    "name": "Sonari Aerodrome",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "iata": "VEJS",
+    "address": "Sonari Aerodrome, Jamshedpur, Jharkhand, India"
+  },
+  {
+    "code": "VIJP",
+    "name": "Jaipur International Airport",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "iata": "VIJP",
+    "address": "Jaipur International Airport, Jaipur, Rajasthan, India"
+  },
+  {
+    "code": "VILK",
+    "name": "Chaudhary Charan Singh International Airport",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "iata": "VILK",
+    "address": "Chaudhary Charan Singh International Airport, Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "code": "VANP",
+    "name": "Dr. Babasaheb Ambedkar International Airport",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "iata": "VANP",
+    "address": "Dr. Babasaheb Ambedkar International Airport, Nagpur, Maharashtra, India"
+  },
+  {
+    "code": "VEBU",
+    "name": "Bilaspur Airport",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "iata": "VEBU",
+    "address": "Bilaspur Airport, Bilaspur, Chhattisgarh, India"
+  },
+  {
+    "code": "VEDG",
+    "name": "Durgapur Airport",
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "iata": "VEDG",
+    "address": "Durgapur Airport, Durgapur, West Bengal, India"
+  },
+  {
+    "code": "VERK",
+    "name": "Rourkela Airport",
+    "city": "Rourkela",
+    "state": "Odisha",
+    "iata": "VERK",
+    "address": "Rourkela Airport, Rourkela, Odisha, India"
+  },
+  {
+    "code": "VOJV",
+    "name": "Jindal Vijayanagar Airport",
+    "city": "Vidyanagar",
+    "state": "Karnataka",
+    "iata": "VOJV",
+    "address": "Jindal Vijayanagar Airport, Vidyanagar, Karnataka, India"
+  },
+  {
+    "code": "VOKU",
+    "name": "Kurnool Airport",
+    "city": "Kurnool",
+    "state": "Andhra Pradesh",
+    "iata": "VOKU",
+    "address": "Kurnool Airport, Kurnool, Andhra Pradesh, India"
+  },
+  {
+    "code": "VOKN",
+    "name": "Kannur International Airport",
+    "city": "Kannur",
+    "state": "Kerala",
+    "iata": "VOKN",
+    "address": "Kannur International Airport, Kannur, Kerala, India"
+  },
+  {
+    "code": "VEJR",
+    "name": "Jagdalpur Airport",
+    "city": "Jagdalpur",
+    "state": "Chhattisgarh",
+    "iata": "VEJR",
+    "address": "Jagdalpur Airport, Jagdalpur, Chhattisgarh, India"
+  },
+  {
+    "code": "VIPG",
+    "name": "Naini-Saini Airport",
+    "city": "Pithoragarh",
+    "state": "Uttarakhand",
+    "iata": "VIPG",
+    "address": "Naini-Saini Airport, Pithoragarh, Uttarakhand, India"
+  },
+  {
+    "code": "VASD",
+    "name": "Shirdi Airport",
+    "city": "Shirdi",
+    "state": "Maharashtra",
+    "iata": "VASD",
+    "address": "Shirdi Airport, Shirdi, Maharashtra, India"
+  },
+  {
+    "code": "VEUK",
+    "name": "Utkela Airport",
+    "city": "Utkela",
+    "state": "Odisha",
+    "iata": "VEUK",
+    "address": "Utkela Airport, Utkela, Odisha, India"
+  },
+  {
+    "code": "VANM",
+    "name": "Navi Mumbai International Airport",
+    "city": "Navi Mumbai",
+    "state": "Maharashtra",
+    "iata": "VANM",
+    "address": "Navi Mumbai International Airport, Navi Mumbai, Maharashtra, India"
+  },
+  {
+    "code": "VOND",
+    "name": "Shri Guru Gobind Singh Ji Airport",
+    "city": "Nanded",
+    "state": "Maharashtra",
+    "iata": "VOND",
+    "address": "Shri Guru Gobind Singh Ji Airport, Nanded, Maharashtra, India"
+  },
+  {
+    "code": "VAMA",
+    "name": "Mundra Airport",
+    "city": "Mundra",
+    "state": "Gujarat",
+    "iata": "VAMA",
+    "address": "Mundra Airport, Mundra, Gujarat, India"
+  },
+  {
+    "code": "VOGA",
+    "name": "Manohar International Airport",
+    "city": "Mopa",
+    "state": "Goa",
+    "iata": "VOGA",
+    "address": "Manohar International Airport, Mopa, Goa, India"
+  },
+  {
+    "code": "VEHO",
+    "name": "Donyi Polo Airport",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "iata": "VEHO",
+    "address": "Donyi Polo Airport, Itanagar, Arunachal Pradesh, India"
+  },
+  {
+    "code": "VEJP",
+    "name": "Jeypore Airport",
+    "city": "Jeypore",
+    "state": "Odisha",
+    "iata": "VEJP",
+    "address": "Jeypore Airport, Jeypore, Odisha, India"
+  },
+  {
+    "code": "VOTV",
+    "name": "Thiruvananthapuram International Airport",
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "iata": "VOTV",
+    "address": "Thiruvananthapuram International Airport, Thiruvananthapuram, Kerala, India"
+  },
+  {
+    "code": "VECT",
+    "name": "Chitrakoot Airport",
+    "city": "Chitrakoot",
+    "state": "Uttar Pradesh",
+    "iata": "VECT",
+    "address": "Chitrakoot Airport, Chitrakoot, Uttar Pradesh, India"
+  },
+  {
+    "code": "VEAP",
+    "name": "Maa Mahamaya Airport",
+    "city": "Ambikapur",
+    "state": "Chhattisgarh",
+    "iata": "VEAP",
+    "address": "Maa Mahamaya Airport, Ambikapur, Chhattisgarh, India"
+  },
+  {
+    "code": "VEST",
+    "name": "Satna Airport",
+    "city": "Satna",
+    "state": "Madhya Pradesh",
+    "iata": "VEST",
+    "address": "Satna Airport, Satna, Madhya Pradesh, India"
+  },
+  {
+    "code": "VASL",
+    "name": "Solapur Airport",
+    "city": "Solapur",
+    "state": "Maharashtra",
+    "iata": "VASL",
+    "address": "Solapur Airport, Solapur, Maharashtra, India"
+  },
+  {
+    "code": "VAAM",
+    "name": "Amravati Airport",
+    "city": "Amravati",
+    "state": "Maharashtra",
+    "iata": "VAAM",
+    "address": "Amravati Airport, Amravati, Maharashtra, India"
+  },
+  {
+    "code": "VIDT",
+    "name": "Datia Airport",
+    "city": "Datia",
+    "state": "Madhya Pradesh",
+    "iata": "VIDT",
+    "address": "Datia Airport, Datia, Madhya Pradesh, India"
+  },
+  {
+    "code": "VIND",
+    "name": "Noida International Airport",
+    "city": "Jewar",
+    "state": "Uttar Pradesh",
+    "iata": "VIND",
+    "address": "Noida International Airport, Jewar, Uttar Pradesh, India"
+  },
+  {
+    "code": "VOAT",
+    "name": "Agatti Airport",
+    "city": "Agatti",
+    "state": "Lakshadweep",
+    "iata": "VOAT",
+    "address": "Agatti Airport, Agatti, Lakshadweep, India"
+  },
+  {
+    "code": "VELP",
+    "name": "Lengpui Airport",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "iata": "VELP",
+    "address": "Lengpui Airport, Aizawl, Mizoram, India"
+  },
+  {
+    "code": "VIAR",
+    "name": "Sri Guru Ram Dass Jee International Airport",
+    "city": "Amritsar",
+    "state": "Punjab",
+    "iata": "VIAR",
+    "address": "Sri Guru Ram Dass Jee International Airport, Amritsar, Punjab, India"
+  },
+  {
+    "code": "VEBS",
+    "name": "Biju Patnaik International Airport",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "iata": "VEBS",
+    "address": "Biju Patnaik International Airport, Bhubaneswar, Odisha, India"
+  },
+  {
+    "code": "VABO",
+    "name": "Vadodara Airport",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "iata": "VABO",
+    "address": "Vadodara Airport, Vadodara, Gujarat, India"
+  },
+  {
+    "code": "VABP",
+    "name": "Raja Bhoj Airport",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "iata": "VABP",
+    "address": "Raja Bhoj Airport, Bhopal, Madhya Pradesh, India"
+  },
+  {
+    "code": "VABV",
+    "name": "Bhavnagar Airport",
+    "city": "Bhavnagar",
+    "state": "Gujarat",
+    "iata": "VABV",
+    "address": "Bhavnagar Airport, Bhavnagar, Gujarat, India"
+  },
+  {
+    "code": "VOHY",
+    "name": "Begumpet Airport",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "iata": "VOHY",
+    "address": "Begumpet Airport, Hyderabad, Telangana, India"
+  },
+  {
+    "code": "VOCL",
+    "name": "Calicut International Airport",
+    "city": "Kozhikode",
+    "state": "Kerala",
+    "iata": "VOCL",
+    "address": "Calicut International Airport, Kozhikode, Kerala, India"
+  },
+  {
+    "code": "VECC",
+    "name": "Netaji Subhas Chandra Bose International Airport",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "iata": "VECC",
+    "address": "Netaji Subhas Chandra Bose International Airport, Kolkata, West Bengal, India"
+  },
+  {
+    "code": "VOCP",
+    "name": "Kadapa Airport",
+    "city": "Kadapa",
+    "state": "Andhra Pradesh",
+    "iata": "VOCP",
+    "address": "Kadapa Airport, Kadapa, Andhra Pradesh, India"
+  },
+  {
+    "code": "VOCB",
+    "name": "Coimbatore International Airport",
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "iata": "VOCB",
+    "address": "Coimbatore International Airport, Coimbatore, Tamil Nadu, India"
+  },
+  {
+    "code": "VECO",
+    "name": "Cooch Behar Airport",
+    "city": "Cooch Behar",
+    "state": "West Bengal",
+    "iata": "VECO",
+    "address": "Cooch Behar Airport, Cooch Behar, West Bengal, India"
+  },
+  {
+    "code": "VIDN",
+    "name": "Jolly Grant Airport",
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "iata": "VIDN",
+    "address": "Jolly Grant Airport, Dehradun, Uttarakhand, India"
+  },
+  {
+    "code": "VIGG",
+    "name": "Kangra Airport",
+    "city": "Kangra",
+    "state": "Himachal Pradesh",
+    "iata": "VIGG",
+    "address": "Kangra Airport, Kangra, Himachal Pradesh, India"
+  },
+  {
+    "code": "VEMN",
+    "name": "Dibrugarh Airport",
+    "city": "Dibrugarh",
+    "state": "Assam",
+    "iata": "VEMN",
+    "address": "Dibrugarh Airport, Dibrugarh, Assam, India"
+  },
+  {
+    "code": "VEMR",
+    "name": "Dimapur Airport",
+    "city": "Dimapur",
+    "state": "Nagaland",
+    "iata": "VEMR",
+    "address": "Dimapur Airport, Dimapur, Nagaland, India"
+  },
+  {
+    "code": "VEGY",
+    "name": "Gaya Airport",
+    "city": "Gaya",
+    "state": "Bihar",
+    "iata": "VEGY",
+    "address": "Gaya Airport, Gaya, Bihar, India"
+  },
+  {
+    "code": "VOHB",
+    "name": "Hubballi Airport",
+    "city": "Hubballi",
+    "state": "Karnataka",
+    "iata": "VOHB",
+    "address": "Hubballi Airport, Hubballi, Karnataka, India"
+  },
+  {
+    "code": "VEKO",
+    "name": "Khajuraho Airport",
+    "city": "Khajuraho",
+    "state": "Madhya Pradesh",
+    "iata": "VEKO",
+    "address": "Khajuraho Airport, Khajuraho, Madhya Pradesh, India"
+  },
+  {
+    "code": "VAID",
+    "name": "Devi Ahilya Bai Holkar Airport",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "iata": "VAID",
+    "address": "Devi Ahilya Bai Holkar Airport, Indore, Madhya Pradesh, India"
+  },
+  {
+    "code": "VEIM",
+    "name": "Imphal Airport",
+    "city": "Imphal",
+    "state": "Manipur",
+    "iata": "VEIM",
+    "address": "Imphal Airport, Imphal, Manipur, India"
+  },
+  {
+    "code": "VEAT",
+    "name": "Agartala Airport",
+    "city": "Agartala",
+    "state": "Tripura",
+    "iata": "VEAT",
+    "address": "Agartala Airport, Agartala, Tripura, India"
+  },
+  {
+    "code": "VOBM",
+    "name": "Belagavi Airport",
+    "city": "Belagavi",
+    "state": "Karnataka",
+    "iata": "VOBM",
+    "address": "Belagavi Airport, Belagavi, Karnataka, India"
+  },
+  {
+    "code": "VELR",
+    "name": "Lilabari Airport",
+    "city": "North Lakhimpur",
+    "state": "Assam",
+    "iata": "VELR",
+    "address": "Lilabari Airport, North Lakhimpur, Assam, India"
+  },
+  {
+    "code": "VAKS",
+    "name": "Keshod Airport",
+    "city": "Keshod",
+    "state": "Gujarat",
+    "iata": "VAKS",
+    "address": "Keshod Airport, Keshod, Gujarat, India"
+  },
+  {
+    "code": "VOMD",
+    "name": "Madurai Airport",
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "iata": "VOMD",
+    "address": "Madurai Airport, Madurai, Tamil Nadu, India"
+  },
+  {
+    "code": "VERC",
+    "name": "Birsa Munda Airport",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "iata": "VERC",
+    "address": "Birsa Munda Airport, Ranchi, Jharkhand, India"
+  },
+  {
+    "code": "VAAU",
+    "name": "Aurangabad Airport",
+    "city": "Chhatrapati Sambhajinagar",
+    "state": "Maharashtra",
+    "iata": "VAAU",
+    "address": "Aurangabad Airport, Chhatrapati Sambhajinagar, Maharashtra, India"
+  },
+  {
+    "code": "VAKE",
+    "name": "Kandla Airport",
+    "city": "Kandla",
+    "state": "Gujarat",
+    "iata": "VAKE",
+    "address": "Kandla Airport, Kandla, Gujarat, India"
+  },
+  {
+    "code": "VAJB",
+    "name": "Jabalpur Airport",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "iata": "VAJB",
+    "address": "Jabalpur Airport, Jabalpur, Madhya Pradesh, India"
+  },
+  {
+    "code": "VAKP",
+    "name": "Kolhapur Airport",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "iata": "VAKP",
+    "address": "Kolhapur Airport, Kolhapur, Maharashtra, India"
+  },
+  {
+    "code": "VIBR",
+    "name": "Kullu Manali Airport",
+    "city": "Bhuntar",
+    "state": "Himachal Pradesh",
+    "iata": "VIBR",
+    "address": "Kullu Manali Airport, Bhuntar, Himachal Pradesh, India"
+  },
+  {
+    "code": "VOMM",
+    "name": "Chennai International Airport",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "iata": "VOMM",
+    "address": "Chennai International Airport, Chennai, Tamil Nadu, India"
+  },
+  {
+    "code": "VOMY",
+    "name": "Mysuru Airport",
+    "city": "Mysuru",
+    "state": "Karnataka",
+    "iata": "VOMY",
+    "address": "Mysuru Airport, Mysuru, Karnataka, India"
+  },
+  {
+    "code": "VEPT",
+    "name": "Jay Prakash Narayan International Airport",
+    "city": "Patna",
+    "state": "Bihar",
+    "iata": "VEPT",
+    "address": "Jay Prakash Narayan International Airport, Patna, Bihar, India"
+  },
+  {
+    "code": "VAPR",
+    "name": "Porbandar Airport",
+    "city": "Porbandar",
+    "state": "Gujarat",
+    "iata": "VAPR",
+    "address": "Porbandar Airport, Porbandar, Gujarat, India"
+  },
+  {
+    "code": "VIPT",
+    "name": "Pantnagar Airport",
+    "city": "Pantnagar",
+    "state": "Uttarakhand",
+    "iata": "VIPT",
+    "address": "Pantnagar Airport, Pantnagar, Uttarakhand, India"
+  },
+  {
+    "code": "VOPC",
+    "name": "Puducherry Airport",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "iata": "VOPC",
+    "address": "Puducherry Airport, Puducherry, Puducherry, India"
+  },
+  {
+    "code": "VORY",
+    "name": "Rajahmundry Airport",
+    "city": "Rajahmundry",
+    "state": "Andhra Pradesh",
+    "iata": "VORY",
+    "address": "Rajahmundry Airport, Rajahmundry, Andhra Pradesh, India"
+  },
+  {
+    "code": "VERU",
+    "name": "Rupsi Airport",
+    "city": "Rupsi",
+    "state": "Assam",
+    "iata": "VERU",
+    "address": "Rupsi Airport, Rupsi, Assam, India"
+  },
+  {
+    "code": "VEBI",
+    "name": "Barapani Airport",
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "iata": "VEBI",
+    "address": "Barapani Airport, Shillong, Meghalaya, India"
+  },
+  {
+    "code": "VISM",
+    "name": "Shimla Airport",
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "iata": "VISM",
+    "address": "Shimla Airport, Shimla, Himachal Pradesh, India"
+  },
+  {
+    "code": "VASU",
+    "name": "Surat Airport",
+    "city": "Surat",
+    "state": "Gujarat",
+    "iata": "VASU",
+    "address": "Surat Airport, Surat, Gujarat, India"
+  },
+  {
+    "code": "VOSM",
+    "name": "Salem Airport",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "iata": "VOSM",
+    "address": "Salem Airport, Salem, Tamil Nadu, India"
+  },
+  {
+    "code": "VOTK",
+    "name": "Tuticorin Airport",
+    "city": "Thoothukudi",
+    "state": "Tamil Nadu",
+    "iata": "VOTK",
+    "address": "Tuticorin Airport, Thoothukudi, Tamil Nadu, India"
+  },
+  {
+    "code": "VETJ",
+    "name": "Tezu Airport",
+    "city": "Tezu",
+    "state": "Arunachal Pradesh",
+    "iata": "VETJ",
+    "address": "Tezu Airport, Tezu, Arunachal Pradesh, India"
+  },
+  {
+    "code": "VOTP",
+    "name": "Tirupati Airport",
+    "city": "Tirupati",
+    "state": "Andhra Pradesh",
+    "iata": "VOTP",
+    "address": "Tirupati Airport, Tirupati, Andhra Pradesh, India"
+  },
+  {
+    "code": "VOTR",
+    "name": "Tiruchirappalli International Airport",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "iata": "VOTR",
+    "address": "Tiruchirappalli International Airport, Tiruchirappalli, Tamil Nadu, India"
+  },
+  {
+    "code": "VAUD",
+    "name": "Maharana Pratap Airport",
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "iata": "VAUD",
+    "address": "Maharana Pratap Airport, Udaipur, Rajasthan, India"
+  },
+  {
+    "code": "VOBZ",
+    "name": "Vijayawada International Airport",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "iata": "VOBZ",
+    "address": "Vijayawada International Airport, Vijayawada, Andhra Pradesh, India"
+  },
+  {
+    "code": "VEBN",
+    "name": "Lal Bahadur Shastri International Airport",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "iata": "VEBN",
+    "address": "Lal Bahadur Shastri International Airport, Varanasi, Uttar Pradesh, India"
+  },
+  {
+    "code": "VERP",
+    "name": "Swami Vivekananda Airport",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "iata": "VERP",
+    "address": "Swami Vivekananda Airport, Raipur, Chhattisgarh, India"
+  },
+  {
+    "code": "VEJH",
+    "name": "Veer Surendra Sai Airport",
+    "city": "Jharsuguda",
+    "state": "Odisha",
+    "iata": "VEJH",
+    "address": "Veer Surendra Sai Airport, Jharsuguda, Odisha, India"
+  },
+  {
+    "code": "VIKG",
+    "name": "Kishangarh Airport",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "iata": "VIKG",
+    "address": "Kishangarh Airport, Ajmer, Rajasthan, India"
+  },
+  {
+    "code": "VEPY",
+    "name": "Pakyong Airport",
+    "city": "Pakyong",
+    "state": "Sikkim",
+    "iata": "VEPY",
+    "address": "Pakyong Airport, Pakyong, Sikkim, India"
+  },
+  {
+    "code": "VAJL",
+    "name": "Jalgaon Airport",
+    "city": "Jalgaon",
+    "state": "Maharashtra",
+    "iata": "VAJL",
+    "address": "Jalgaon Airport, Jalgaon, Maharashtra, India"
+  },
+  {
+    "code": "VEAY",
+    "name": "Maharishi Valmiki International Airport Ayodhyadham",
+    "city": "Ayodhya",
+    "state": "Uttar Pradesh",
+    "iata": "VEAY",
+    "address": "Maharishi Valmiki International Airport Ayodhyadham, Ayodhya, Uttar Pradesh, India"
+  },
+  {
+    "code": "VIMB",
+    "name": "Moradabad Airport",
+    "city": "Moradabad",
+    "state": "Uttar Pradesh",
+    "iata": "VIMB",
+    "address": "Moradabad Airport, Moradabad, Uttar Pradesh, India"
+  },
+  {
+    "code": "VEAH",
+    "name": "Azamgarh Airport",
+    "city": "Azamgarh",
+    "state": "Uttar Pradesh",
+    "iata": "VEAH",
+    "address": "Azamgarh Airport, Azamgarh, Uttar Pradesh, India"
+  },
+  {
+    "code": "VOVI",
+    "name": "Bhogapuram Airport",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "iata": "VOVI",
+    "address": "Bhogapuram Airport, Visakhapatnam, Andhra Pradesh, India"
+  },
+  {
+    "code": "VEDO",
+    "name": "Deoghar Airport",
+    "city": "Deoghar",
+    "state": "Jharkhand",
+    "iata": "VEDO",
+    "address": "Deoghar Airport, Deoghar, Jharkhand, India"
+  },
+  {
+    "code": "VOGB",
+    "name": "Kalaburagi Airport",
+    "city": "Kalaburagi",
+    "state": "Karnataka",
+    "iata": "VOGB",
+    "address": "Kalaburagi Airport, Kalaburagi, Karnataka, India"
+  },
+  {
+    "code": "VAGD",
+    "name": "Birsi Airport",
+    "city": "Gondia",
+    "state": "Maharashtra",
+    "iata": "VAGD",
+    "address": "Birsi Airport, Gondia, Maharashtra, India"
+  },
+  {
+    "code": "VOSR",
+    "name": "Sindhudurg Airport",
+    "city": "Sindhudurg",
+    "state": "Maharashtra",
+    "iata": "VOSR",
+    "address": "Sindhudurg Airport, Sindhudurg, Maharashtra, India"
+  },
+  {
+    "code": "VEKI",
+    "name": "Kushinagar Airport",
+    "city": "Kushinagar",
+    "state": "Uttar Pradesh",
+    "iata": "VEKI",
+    "address": "Kushinagar Airport, Kushinagar, Uttar Pradesh, India"
+  },
+  {
+    "code": "VAHS",
+    "name": "Rajkot International Airport",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "iata": "VAHS",
+    "address": "Rajkot International Airport, Rajkot, Gujarat, India"
+  },
+  {
+    "code": "VOSH",
+    "name": "Shivamogga Airport",
+    "city": "Shivamogga",
+    "state": "Karnataka",
+    "iata": "VOSH",
+    "address": "Shivamogga Airport, Shivamogga, Karnataka, India"
+  },
+  {
+    "code": "VIAH",
+    "name": "Aligarh Airport",
+    "city": "Aligarh",
+    "state": "Uttar Pradesh",
+    "iata": "VIAH",
+    "address": "Aligarh Airport, Aligarh, Uttar Pradesh, India"
+  },
+  {
+    "code": "VISV",
+    "name": "Shravasti Airport",
+    "city": "Shravasti",
+    "state": "Uttar Pradesh",
+    "iata": "VISV",
+    "address": "Shravasti Airport, Shravasti, Uttar Pradesh, India"
+  },
+  {
+    "code": "VERW",
+    "name": "Rewa Airport",
+    "city": "Rewa",
+    "state": "Madhya Pradesh",
+    "iata": "VERW",
+    "address": "Rewa Airport, Rewa, Madhya Pradesh, India"
+  },
+  {
+    "code": "VIHR",
+    "name": "Hisar Airport",
+    "city": "Hisar",
+    "state": "Haryana",
+    "iata": "VIHR",
+    "address": "Hisar Airport, Hisar, Haryana, India"
+  },
+  {
+    "code": "VOPB",
+    "name": "Sri Vijaya Puram Airport",
+    "city": "Sri Vijaya Puram",
+    "state": "Andaman and Nicobar Islands",
+    "iata": "VOPB",
+    "address": "Sri Vijaya Puram Airport, Sri Vijaya Puram, Andaman and Nicobar Islands, India"
+  },
+  {
+    "code": "VAPO",
+    "name": "Pune Airport",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "iata": "VAPO",
+    "address": "Pune Airport, Pune, Maharashtra, India"
+  },
+  {
+    "code": "VEBD",
+    "name": "Bagdogra Airport",
+    "city": "Bagdogra",
+    "state": "West Bengal",
+    "iata": "VEBD",
+    "address": "Bagdogra Airport, Bagdogra, West Bengal, India"
+  },
+  {
+    "code": "VILH",
+    "name": "Kushok Bakula Rimpochee Airport",
+    "city": "Leh",
+    "state": "Ladakh",
+    "iata": "VILH",
+    "address": "Kushok Bakula Rimpochee Airport, Leh, Ladakh, India"
+  },
+  {
+    "code": "VIJU",
+    "name": "Jammu Airport",
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "iata": "VIJU",
+    "address": "Jammu Airport, Jammu, Jammu and Kashmir, India"
+  },
+  {
+    "code": "VIJO",
+    "name": "Jodhpur Airport",
+    "city": "Jodhpur",
+    "state": "Rajasthan",
+    "iata": "VIJO",
+    "address": "Jodhpur Airport, Jodhpur, Rajasthan, India"
+  },
+  {
+    "code": "VIJR",
+    "name": "Jaisalmer Airport",
+    "city": "Jaisalmer",
+    "state": "Rajasthan",
+    "iata": "VIJR",
+    "address": "Jaisalmer Airport, Jaisalmer, Rajasthan, India"
+  },
+  {
+    "code": "VIGR",
+    "name": "Gwalior Airport",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "iata": "VIGR",
+    "address": "Gwalior Airport, Gwalior, Madhya Pradesh, India"
+  },
+  {
+    "code": "VEGK",
+    "name": "Gorakhpur Airport",
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "iata": "VEGK",
+    "address": "Gorakhpur Airport, Gorakhpur, Uttar Pradesh, India"
+  },
+  {
+    "code": "VEKU",
+    "name": "Silchar Airport",
+    "city": "Silchar",
+    "state": "Assam",
+    "iata": "VEKU",
+    "address": "Silchar Airport, Silchar, Assam, India"
+  },
+  {
+    "code": "VOVZ",
+    "name": "Visakhapatnam Airport",
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "iata": "VOVZ",
+    "address": "Visakhapatnam Airport, Visakhapatnam, Andhra Pradesh, India"
+  },
+  {
+    "code": "VICG",
+    "name": "Chandigarh Airport",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "iata": "VICG",
+    "address": "Chandigarh Airport, Chandigarh, Chandigarh, India"
+  },
+  {
+    "code": "VABJ",
+    "name": "Bhuj Airport",
+    "city": "Bhuj",
+    "state": "Gujarat",
+    "iata": "VABJ",
+    "address": "Bhuj Airport, Bhuj, Gujarat, India"
+  },
+  {
+    "code": "VAJM",
+    "name": "Jamnagar Airport",
+    "city": "Jamnagar",
+    "state": "Gujarat",
+    "iata": "VAJM",
+    "address": "Jamnagar Airport, Jamnagar, Gujarat, India"
+  },
+  {
+    "code": "VEJT",
+    "name": "Jorhat Airport",
+    "city": "Jorhat",
+    "state": "Assam",
+    "iata": "VEJT",
+    "address": "Jorhat Airport, Jorhat, Assam, India"
+  },
+  {
+    "code": "VETZ",
+    "name": "Tezpur Airport",
+    "city": "Tezpur",
+    "state": "Assam",
+    "iata": "VETZ",
+    "address": "Tezpur Airport, Tezpur, Assam, India"
+  },
+  {
+    "code": "VECX",
+    "name": "Kanpur Airport",
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "iata": "VECX",
+    "address": "Kanpur Airport, Kanpur, Uttar Pradesh, India"
+  },
+  {
+    "code": "VIPK",
+    "name": "Pathankot Airport",
+    "city": "Pathankot",
+    "state": "Punjab",
+    "iata": "VIPK",
+    "address": "Pathankot Airport, Pathankot, Punjab, India"
+  },
+  {
+    "code": "VIDD",
+    "name": "Safdarjung Airport",
+    "city": "Delhi",
+    "state": "Delhi",
+    "iata": "VIDD",
+    "address": "Safdarjung Airport, Delhi, Delhi, India"
+  },
+  {
+    "code": "VEBA",
+    "name": "Behala Airport",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "iata": "VEBA",
+    "address": "Behala Airport, Kolkata, West Bengal, India"
+  },
+  {
+    "code": "VOGO",
+    "name": "Goa International Airport",
+    "city": "Dabolim",
+    "state": "Goa",
+    "iata": "VOGO",
+    "address": "Goa International Airport, Dabolim, Goa, India"
+  },
+  {
+    "code": "VIAG",
+    "name": "Agra Airport",
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "iata": "VIAG",
+    "address": "Agra Airport, Agra, Uttar Pradesh, India"
+  },
+  {
+    "code": "VISR",
+    "name": "Srinagar Airport",
+    "city": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "iata": "VISR",
+    "address": "Srinagar Airport, Srinagar, Jammu and Kashmir, India"
+  },
+  {
+    "code": "VIBT",
+    "name": "Bathinda Airport",
+    "city": "Bathinda",
+    "state": "Punjab",
+    "iata": "VIBT",
+    "address": "Bathinda Airport, Bathinda, Punjab, India"
+  }
+]
