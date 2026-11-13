@@ -3,7 +3,7 @@ services:
     name: flight-friend
     runtime: node
     region: singapore
-    plan: 0.5c-512mb
+    plan: free
     buildCommand: npm install --omit=dev
     startCommand: npm start
     healthCheckPath: /api/health
@@ -16,8 +16,6 @@ services:
         value: 0.0.0.0
       - key: PORT
         value: 10000
-      - key: DATA_DIR
-        value: /var/data
       - key: AUTH_PROVIDER
         value: firebase
       - key: FIREBASE_PROJECT_ID
@@ -34,8 +32,3 @@ services:
         generateValue: true
       - key: LOOKUP_HMAC_KEY
         generateValue: true
-    disk:
-      name: flight-friend-data
-      mountPath: /var/data
-      sizeGB: 1
-
