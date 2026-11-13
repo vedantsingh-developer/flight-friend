@@ -19,11 +19,11 @@ services:
       - key: AUTH_PROVIDER
         value: firebase
       - key: FIREBASE_PROJECT_ID
-        sync: false
+        value: flight-friend-8eb51
       - key: FIREBASE_API_KEY
-        sync: false
+        value: AIzaSyCN9WvvavsmLDUFUMBctAJ20xttnQK7yrE
       - key: ADMIN_USERNAME
-        sync: false
+        value: Vedant
       - key: ADMIN_PASSWORD
         sync: false
       - key: ADMIN_PASSWORD_SALT
